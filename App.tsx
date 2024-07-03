@@ -6,7 +6,6 @@ import About from './components/About';
 import Connect from './components/Connect';
 import Photos from './components/Photos';
 import Portfolio from './components/Portfolio';
-import Joke from './components/Joke';
 import ComicPage from "./components/ComicPage";
 
 const App: React.FC = () => {
